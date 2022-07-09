@@ -1,0 +1,8 @@
+{
+	"name": "${localWorkspaceFolderBasename}",
+	"dockerComposeFile": "docker-compose.yml",
+	"service": "wordpress",
+	"forwardPorts": [ 8080 ],
+	"workspaceFolder": "/var/www/html/",
+	"remoteUser": "www-data"
+}
