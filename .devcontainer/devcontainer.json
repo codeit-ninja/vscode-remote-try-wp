@@ -18,7 +18,7 @@
 		// "mtxr.sqltools-driver-mysql"
 	],
 	"workspaceFolder": "/var/www/html/",
-	"postCreateCommand": "/var/www/html/.devcontainer/setup.sh",
-	"initializeCommand": "bash .devcontainer/createEnv.sh ${localWorkspaceFolderBasename}",
+	"postCreateCommand": "",
+	"initializeCommand": "",
 	"remoteUser": "www-data"
 }
